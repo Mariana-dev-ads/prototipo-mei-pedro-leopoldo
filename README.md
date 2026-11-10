@@ -17,7 +17,7 @@ Mapear e desenvolver um protótipo de alta fidelidade para uma interface inclusi
 ---
 
 ## 🔗 Links Úteis do Projeto
-* *Protótipo Interativo no Figma:* [Clique aqui para testar as telas](https://www.figma.com/make/yF8yKNVsWmZcBbC4JSVThP/Gest%C3%A3o-Simples-para-Feirantes?t=tKapEv5kJXZsnLTu-20&fullscreen=1)
+* *Protótipo Interativo no Figma:* [Clique aqui para testar as telas](https://www.figma.com/make/yF8yKNVsWmZcBbC4JSVThP/Gest%C3%A3o-Simples-para-Feirantes?code-node-id=0-6&p=f&t=pXrjqVYYWnEQjR9u-0&fullscreen=1).
 * *Vídeo Demonstrativo no YouTube:* [Clique aqui para assistir](COLE_AQUI_O_LINK_DO_YOUTUBE)
 
 ---
